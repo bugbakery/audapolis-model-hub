@@ -325,7 +325,7 @@ socks = ["PySocks (>=1.5.6,!=1.5.7,<2.0)"]
 [metadata]
 lock-version = "1.1"
 python-versions = ">=3.8,<3.11"
-content-hash = "0eaf06af96c4aefab8d67943e190dc33b399667cee6c48ff8e0a4935dee8e6d1"
+content-hash = "7e643d0044245888f291c421760d4766e7f74fab33a08d81f3f704f508c82a7f"
 
 [metadata.files]
 aesara = [

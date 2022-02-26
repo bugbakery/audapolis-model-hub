@@ -10,6 +10,7 @@ numpy = ">1.22"
 scipy = ">=1.7.0"
 punctuator = {git = "https://github.com/audapolis/punctuator2", rev = "51eeb14cd30a4162e6a54e5234805651963f767f"}
 requests = "^2.27.1"
+gdown = "^4.4.0"
 
 [tool.poetry.dev-dependencies]
 
