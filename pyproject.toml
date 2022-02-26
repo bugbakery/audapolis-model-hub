@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "audapolis-model-hub"
+version = "0.1.0"
+description = ""
+authors = ["pajowu <git@ca.pajowu.de>"]
+
+[tool.poetry.dependencies]
+python = ">=3.8,<3.11"
+numpy = ">1.22"
+scipy = ">=1.7.0"
+punctuator = {git = "https://github.com/audapolis/punctuator2", rev = "51eeb14cd30a4162e6a54e5234805651963f767f"}
+requests = "^2.27.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
